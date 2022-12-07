@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Sj2ADZxg/JskpuWjP0YUKEQNe+P3XU+4kQ/eoL/CsDc=",
+  "Source": "CovidWebAPI",
+  "BasePath": "_content/CovidWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
